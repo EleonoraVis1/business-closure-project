@@ -1,0 +1,61 @@
+business_id,is_open,city,state,business_stars,business_review_count,reviews_2021,reviews_first_6m_2021,reviews_recent_6m_2021,reviews_recent_3m_2021,avg_review_stars_2021,avg_review_stars_first_6m,avg_review_stars_recent_6m,rating_change_recent_vs_first_6m,all_time_checkins,tips_2021,distinct_tip_users_2021,name,address,_activity,status_label,activity_stratum
+Xo4SnRWyz1ptopOYSZN3Zw,0,Bensalem,PA,4.5,5,0,0,0,0,,,,,18,0,0,The Lucky Cheese,2999 Street Rd,23,closed_snapshot,lower_activity
+UZadXzEives5tfSnwP1rFA,0,Edmonton,AB,4.0,15,0,0,0,0,,,,,16,0,0,Bibo Wine Bar,9919 - 89 Avenue,31,closed_snapshot,lower_activity
+B1lxejaxLL1lCG-syTBQPQ,0,Philadelphia,PA,3.0,10,0,0,0,0,,,,,0,0,0,Yello'bar,2425 Grays Ferry Ave,10,closed_snapshot,lower_activity
+Ukp2COoEJCtJkHVOj4fM-w,0,Metairie,LA,4.0,9,0,0,0,0,,,,,7,0,0,Red Bastille Bar & Grill,4740 Rye St,16,closed_snapshot,lower_activity
+AfD2Tz0kQzSI8bBy2Z_rxA,0,Marrero,LA,3.0,8,0,0,0,0,,,,,9,0,0,Boudreaux's Road House,5131 Lapalco Blvd,17,closed_snapshot,lower_activity
+JQy8G3BNLJgkyk8nCUTz5w,0,Ambler,PA,4.5,8,0,0,0,0,,,,,5,0,0,Whooley's,Maple and Mt Pleasant Ave,13,closed_snapshot,lower_activity
+vr-PnxYAFutJgsVswO9EQA,0,New Hope,PA,4.0,19,0,0,0,0,,,,,26,0,0,Poe Bistro Lounge,385 W Bridge St,45,closed_snapshot,lower_activity
+cyaDjqjhtRbpd5Og5dFoZg,0,Santa Barbara,CA,2.5,5,0,0,0,0,,,,,4,0,0,Boondocks,4444 Hollister Ave,9,closed_snapshot,lower_activity
+OD1QcJ1Xh8a9q8-OMJhXYw,0,Meridian,ID,4.0,14,14,7,7,0,3.7857142857142856,3.857142857142857,3.7142857142857135,-0.1428571428571428,4,1,1,Burnt Lemon Grill,1735 W Chinden Blvd,32,closed_snapshot,lower_activity
+TgYJmPdUAAHwG5cjIxYEgg,0,Collegeville,PA,3.0,11,0,0,0,0,,,,,1,0,0,Ray's Burgers and Fries,"1850 Collegeville Rd, Ste 101",12,closed_snapshot,lower_activity
+cfyngLDhpmkv143Dl7EZMQ,0,Tampa,FL,3.0,25,0,0,0,0,,,,,18,0,0,Jai Ho Pure Veg,"1251 E Fowler Ave, Ste 2b",43,closed_snapshot,lower_activity
+WJxrOEC2WF7iXAtkdk3eqA,0,West Chester,PA,4.0,19,0,0,0,0,,,,,16,0,0,Dona Linda,611 W Strasburg Rd,35,closed_snapshot,lower_activity
+X0Im1qI1i-IapFbcsxjDXQ,0,Boise,ID,3.5,11,0,0,0,0,,,,,20,0,0,Yokozuna Teriyaki,276 N 8th St,31,closed_snapshot,lower_activity
+hrroi6mOWjIZb0qaMMh0yg,0,Philadelphia,PA,4.5,22,0,0,0,0,,,,,14,0,0,Dos Rosas Taqueria,7 N 3rd St,36,closed_snapshot,lower_activity
+VVkZoe3Oq0-5ktCHsARpaw,0,Tampa,FL,2.5,21,0,0,0,0,,,,,19,0,0,La Fuente Real Mexican Restaurant,10032 Cross Creek Blvd,40,closed_snapshot,lower_activity
+M46J-dF8qXA-tgsKRnEuaQ,0,Eagle,ID,4.5,105,0,0,0,0,,,,,206,1,1,Grinkers Grand Palace,"228 E Plaza Dr, Ste H",311,closed_snapshot,higher_activity
+nSKLosQgplp35Y5MiYtOUA,0,Kenner,LA,3.5,62,0,0,0,0,,,,,65,0,0,Cop a Donut,2321 W Esplanade Ave,127,closed_snapshot,higher_activity
+K8O71Tb6xcza0g1MU608ag,0,New Orleans,LA,4.0,230,0,0,0,0,,,,,490,0,0,Jagerhaus,833 Conti St,720,closed_snapshot,higher_activity
+0PKmbkXjL58J2h-k29bamg,0,Safety Harbor,FL,4.5,56,0,0,0,0,,,,,88,0,0,Pizza Cones,"500 Main St, Ste C",144,closed_snapshot,higher_activity
+alrkRcqloGsnBxYkbQw0tg,0,Tabernacle,NJ,3.0,44,0,0,0,0,,,,,30,0,0,Tabernacle Inn,1488 Rte 206,74,closed_snapshot,higher_activity
+wDc9x_ylloRtDeglSQKUUg,0,Tucson,AZ,2.5,46,0,0,0,0,,,,,109,0,0,El Charro Cafe,6310 E Broadway Blvd,155,closed_snapshot,higher_activity
+B-SiesU4hxIiL7rl7vzayA,0,Philadelphia,PA,4.0,319,0,0,0,0,,,,,386,0,0,Jim's Steaks,431 N 62nd St,705,closed_snapshot,higher_activity
+temqEyyQwjZlLOr5gUmAnQ,0,Boise,ID,3.0,40,0,0,0,0,,,,,55,0,0,Sizzler,459 N Cole Rd,95,closed_snapshot,higher_activity
+dPfxNIJeHLKpny0GKtAsXg,0,Saint Petersburg,FL,2.5,34,0,0,0,0,,,,,92,0,0,Estela's Mexican Restaurant,10478 Roosevelt Blvd,126,closed_snapshot,higher_activity
+q6uQoz0PaDBReEruFB9bUA,0,Boise,ID,4.5,58,0,0,0,0,,,,,75,0,0,Andy's Deli,840 W Idaho St,133,closed_snapshot,higher_activity
+lM-ws6WbH6XUkENdiWHjdQ,0,Edmonton,AB,3.0,8,0,0,0,0,,,,,61,0,0,Jasper Sushi and Noodle House,10107 115 Street NW,69,closed_snapshot,higher_activity
+Y9QwSBlJ8DRvde-udRp2yQ,0,New Orleans,LA,3.0,82,0,0,0,0,,,,,113,0,0,The Flaming Torch,737 Octavia St,195,closed_snapshot,higher_activity
+DG6jtHuaEHj0Y4HgJl_NBA,0,Tampa,FL,3.5,82,0,0,0,0,,,,,252,0,0,Fire Bar and Grill,3023 W Kennedy Blvd,334,closed_snapshot,higher_activity
+c21fgdWZTPmyC_z0cEMDnw,0,Dresher,PA,3.5,66,0,0,0,0,,,,,63,0,0,The Simple Greek,1665 Limekiln Pike,129,closed_snapshot,higher_activity
+-nxsgCv8aqXPoRkdnT0soQ,0,Metairie,LA,3.5,23,0,0,0,0,,,,,66,0,0,Bottom Line Bar & Grill,3309 Division St,89,closed_snapshot,higher_activity
+VyKFqPHbrQ7RCv8Uotjarg,1,Edmonton,AB,4.0,28,1,1,0,0,2.0,2.0,,,28,0,0,Mamenche's,10831 101 Street,57,open_snapshot,lower_activity
+mTJnWqXL0Hf16U7RG6y-3A,1,Franklin,TN,2.0,36,7,3,4,3,2.571428571428572,2.333333333333333,2.75,0.4166666666666665,45,0,0,Burger King,1911 Mallory Ln,91,open_snapshot,lower_activity
+ux3DPp2_VDqWH1jO6Ic-vg,1,Indianapolis,IN,2.0,5,3,2,1,0,1.0,1.0,1.0,0.0,5,0,0,Subway,9902 E 79th St,13,open_snapshot,lower_activity
+4DmcHKAcAk4xMnW8oDH--Q,1,Tampa,FL,3.0,18,1,0,1,0,4.0,,4.0,,29,1,1,Golden Krust Caribbean Restaurant,"2525 East Hillsborough Ave, Ste 157",48,open_snapshot,lower_activity
+uzsH7P2gNvsWUDzKD6rfyw,1,Media,PA,2.0,27,3,2,1,1,2.333333333333333,3.0,1.0,-2.0,7,1,1,Chipotle Mexican Grill,"1075 W Baltimore Pike, Ste L",38,open_snapshot,lower_activity
+InawP3IfShNTJjSeLMDmGg,1,Philadelphia,PA,1.5,34,5,2,3,1,1.0,1.0,1.0,0.0,26,0,0,Wendy's,7700 City Line Ave,66,open_snapshot,lower_activity
+Y7zKoD1-cajoHVKGNYYqxA,1,Nashville,TN,4.5,39,3,0,3,3,5.0,,5.0,,42,0,0,Great Harvest Bread,"3900 Hillsboro Pike, Ste 32",87,open_snapshot,lower_activity
+6ej2f00IC9-IF6yfSVTzrA,1,Nashville,TN,4.0,13,4,3,1,1,5.0,5.0,5.0,0.0,5,0,0,Fonda El Cubilete,310A Gallatin Pike S,23,open_snapshot,lower_activity
+fsnv2igudDD6Gx2zYFAYew,1,Madison,TN,2.5,35,0,0,0,0,,,,,68,1,1,China Bell,143 Gallatin Pike N,103,open_snapshot,lower_activity
+0Ayp1QNpRdtuU5aOYbc8_A,1,Holiday,FL,4.0,9,3,2,1,0,4.0,4.0,4.0,0.0,6,1,1,Taco Movil Mexican Food Truck,2435 Grand Blvd,18,open_snapshot,lower_activity
+ZFrJyM_FIVSbUiH9UVOAtQ,1,Tampa,FL,2.5,13,1,0,1,1,5.0,,5.0,,8,0,0,Long John Silver's,1707 E Fowler Ave,23,open_snapshot,lower_activity
+6Qjql13QUm6zxaDEqJjCqg,1,Freeburg,IL,3.5,9,0,0,0,0,,,,,67,0,0,Gary's Restaurant,405 S State St,76,open_snapshot,lower_activity
+VF2PtrstMeasOK_4d4VHVA,1,Tucson,AZ,3.0,22,4,2,2,2,2.25,3.0,1.5,-1.5,10,0,0,Pizza Hut,4710 E Speedway Blvd,38,open_snapshot,lower_activity
+dLzOsIWpejQD4gVHoVcRGg,1,Kirkwood,MO,2.5,16,4,4,0,0,2.0,2.0,,,3,0,0,Domino's Pizza,11240 Manchester Rd,23,open_snapshot,lower_activity
+UD7JdIOGOQ4CDgqq09qZXA,1,Caseyville,IL,1.5,13,3,3,0,0,1.6666666666666667,1.6666666666666667,,,21,0,0,Taco Bell,2413 N 89th St,37,open_snapshot,lower_activity
+0Ib_MPoFNwXnfKtNOjOx9A,1,Nashville,TN,2.0,294,4,4,0,0,2.0,2.0,,,605,0,0,Gibson Cafe,1 Terminal Dr,903,open_snapshot,higher_activity
+njNxIjW06NxED_1DWrJwKQ,1,Tucson,AZ,4.0,191,21,11,10,7,3.619047619047619,3.636363636363636,3.6,-0.0363636363636361,286,3,3,Jonathan's Cork,6320 E Tanque Verde Rd,505,open_snapshot,higher_activity
+p6c70_FsgpmSPGTWdOOuxg,1,Mount Laurel,NJ,3.5,224,9,4,5,4,3.0,3.0,3.0,0.0,334,0,0,Cocina Azteca,1155 Rt 73,571,open_snapshot,higher_activity
+_PiS4MmBmQmkOoLmo1p31A,1,Largo,FL,3.5,18,1,0,1,1,5.0,,5.0,,99,0,0,Publix Super Markets,12022 Indian Rocks Rd,119,open_snapshot,higher_activity
+eLi0bpsDoWQkBhJX1d46tg,1,Philadelphia,PA,3.5,286,8,5,3,2,3.125,3.8,2.0,-1.7999999999999998,1134,1,1,Fergie's Pub,1214 Sansom St,1430,open_snapshot,higher_activity
+CZ2KPQtt0ah0up00YK0Ypg,1,Hockessin,DE,3.5,69,6,4,2,2,3.8333333333333335,4.25,3.0,-1.25,88,0,0,2 Fat Guys American Grill,701 Ace Memorial Dr,165,open_snapshot,higher_activity
+1FURjeGJi_LBXcJQg8eskw,1,Carpinteria,CA,4.5,885,112,55,57,21,4.410714285714286,4.527272727272727,4.298245614035087,-0.22902711323764,1605,11,11,Padaro Beach Grill,3765 Santa Claus Ln,2623,open_snapshot,higher_activity
+XMGNjPd2qo6Lo1mXW8OlGA,1,Fishers,IN,3.0,41,1,0,1,0,4.0,,4.0,,150,1,1,QDOBA Mexican Eats,"8260 E 96th St, Ste 106",192,open_snapshot,higher_activity
+3Vax2SswY9_5KSZoCJLyIA,1,Tampa,FL,2.0,33,2,0,2,2,1.0,,1.0,,186,0,0,Taco Bell,7329 W Waters Ave,223,open_snapshot,higher_activity
+YYqRjbCVyoRfTV1R16eqxw,1,Saint Louis,MO,4.0,202,11,7,4,4,4.090909090909091,4.142857142857143,4.0,-0.1428571428571432,566,0,0,Gus' Pretzels,1820 Arsenal St,783,open_snapshot,higher_activity
+lwN9FutfBq81GnGWhj5Mng,1,Philadelphia,PA,4.5,74,0,0,0,0,,,,,59,0,0,Balkan Express Restaurant,2237 Grays Ferry Ave,133,open_snapshot,higher_activity
+UNtta3w643ZWsJ7JDxhC9g,1,Saint Louis,MO,3.5,174,19,11,8,0,3.8947368421052633,4.181818181818182,3.5,-0.6818181818181817,751,0,0,Hammerstone's,2028 S 9th St,944,open_snapshot,higher_activity
+DFHr9C_xg926pxd7oskR4A,1,New Orleans,LA,3.5,16,0,0,0,0,,,,,99,0,0,Nola Snow Snoballs,7040 Vicksburg St,115,open_snapshot,higher_activity
+3zI7Ka2_ZsKh4UwbSFnXdw,1,Saint Louis,MO,4.5,473,28,15,13,3,3.607142857142857,3.533333333333333,3.692307692307693,0.1589743589743593,993,2,2,Lulu's Local Eatery,3201 S Grand,1497,open_snapshot,higher_activity
+UV0vf6VGzuNsrUJdZVc1nw,1,Indianapolis,IN,3.5,106,7,2,5,1,4.142857142857143,5.0,3.8,-1.2000000000000002,272,0,0,Plump's Last Shot,6416 Cornell Ave,386,open_snapshot,higher_activity

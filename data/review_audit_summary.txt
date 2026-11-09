@@ -1,0 +1,62 @@
+============================================================
+YELP REVIEW DATA AUDIT
+============================================================
+
+Total lines: 4,724,471
+Valid JSON records: 4,724,471
+Malformed JSON records: 0
+
+Reviews with missing review IDs: 0
+Reviews with missing business IDs: 0
+Reviews with missing dates: 0
+Reviews with invalid dates: 0
+Reviews with invalid ratings: 0
+
+Duplicate review IDs: 0
+Exact duplicate records: 0
+
+Reviews outside restaurant sample: 0
+Reviews inside restaurant sample: 4,724,471
+
+Reviews with text: 4,724,471
+Reviews without text: 0
+
+2021 RECONCILIATION
+------------------------------------------------------------
+Businesses compared: 52,268
+Matching 2021 counts: 52,268
+Mismatched 2021 counts: 0
+
+YEARLY REVIEW COUNTS
+------------------------------------------------------------
+ year  review_count
+ 2005           620
+ 2006          2830
+ 2007         10779
+ 2008         32419
+ 2009         54093
+ 2010        100186
+ 2011        163639
+ 2012        199230
+ 2013        261253
+ 2014        356834
+ 2015        471905
+ 2016        511217
+ 2017        552447
+ 2018        610694
+ 2019        608268
+ 2020        358311
+ 2021        409047
+ 2022         20699
+
+RATING COUNTS
+------------------------------------------------------------
+Counter({5.0: 2079441, 4.0: 1130251, 1.0: 567185, 3.0: 543108, 2.0: 404486})
+
+Issue examples saved: 0
+
+Output files:
+C:\Users\zarni\Desktop\School\mining\business-closure-project\data\review_audit_summary.txt
+C:\Users\zarni\Desktop\School\mining\business-closure-project\data\review_audit_by_year.csv
+C:\Users\zarni\Desktop\School\mining\business-closure-project\data\review_audit_2021_reconciliation.csv
+C:\Users\zarni\Desktop\School\mining\business-closure-project\data\review_audit_issues.csv
