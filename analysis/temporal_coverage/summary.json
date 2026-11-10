@@ -1,0 +1,31 @@
+{
+  "coverage_by_snapshot_status": {
+    "0": {
+      "after_window": 47,
+      "before_window": 15987,
+      "in_window": 1247
+    },
+    "1": {
+      "after_window": 10494,
+      "before_window": 4458,
+      "in_window": 20035
+    }
+  },
+  "feature_businesses": 52268,
+  "inputs": {
+    "features": {
+      "sha256": "22ddc107fd5c8e7de08a8609f495cc59901e46f0f4ac51ec8a2e8cc44aad8809"
+    },
+    "timeline": {
+      "sha256": "aa950fa378605df9e0f053995b5609d022ecafb6dbbc9afcf808252f7d0feff9"
+    }
+  },
+  "interpretation": "Last review is an activity observation, not a closure date. Snapshot status and activity gaps do not establish prospective outcomes.",
+  "issue_counts": {
+    "snapshot_review_count_disagreement": 32018
+  },
+  "timeline_businesses": 52268,
+  "timeline_ids_without_features": 0,
+  "window_end": "2021-12-31",
+  "window_start": "2021-01-01"
+}
