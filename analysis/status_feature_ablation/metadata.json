@@ -1,0 +1,54 @@
+{
+  "input_sha256": "c5208b55c4233d6d096f727d3cc14696377c7edc40031c693f6d8823b58b6575",
+  "python": "3.14.3",
+  "pandas": "3.1.1",
+  "sklearn": "1.9.1",
+  "random_state": 42,
+  "train_rows": 41814,
+  "test_rows": 10454,
+  "test_closed_prevalence": 0.3305911612779797,
+  "feature_groups": {
+    "snapshot_totals": [
+      "business_stars",
+      "business_review_count",
+      "all_time_checkins"
+    ],
+    "activity_2021": [
+      "reviews_2021",
+      "reviews_first_6m_2021",
+      "reviews_recent_6m_2021",
+      "reviews_recent_3m_2021",
+      "tips_2021",
+      "distinct_tip_users_2021"
+    ],
+    "activity_and_ratings_2021": [
+      "reviews_2021",
+      "reviews_first_6m_2021",
+      "reviews_recent_6m_2021",
+      "reviews_recent_3m_2021",
+      "tips_2021",
+      "distinct_tip_users_2021",
+      "avg_review_stars_2021",
+      "avg_review_stars_first_6m",
+      "avg_review_stars_recent_6m",
+      "rating_change_recent_vs_first_6m"
+    ],
+    "all_features": [
+      "business_stars",
+      "business_review_count",
+      "all_time_checkins",
+      "reviews_2021",
+      "reviews_first_6m_2021",
+      "reviews_recent_6m_2021",
+      "reviews_recent_3m_2021",
+      "tips_2021",
+      "distinct_tip_users_2021",
+      "avg_review_stars_2021",
+      "avg_review_stars_first_6m",
+      "avg_review_stars_recent_6m",
+      "rating_change_recent_vs_first_6m"
+    ]
+  },
+  "target": "1 = snapshot closed; no closure dates or future outcomes",
+  "limitations": "Random holdout; 2021 activity may follow closure. No early-warning or causal interpretation. No tuning on test data."
+}
