@@ -1,0 +1,15 @@
+{
+  "valid_reviews": 4724471,
+  "scored_reviews_2021": 409047,
+  "unique_review_business_ids": 52268,
+  "restaurants": 52268,
+  "mismatched_counts": 0,
+  "missing_sentiment_means": 20693,
+  "singleton_std_missing": 4748,
+  "vader_version": "3.3.2",
+  "negative_threshold": "compound <= -0.05",
+  "std": "sample ddof=1; NaN for n<2",
+  "review_file_bytes": 1414385835,
+  "stage1_sha256": "c5208b55c4233d6d096f727d3cc14696377c7edc40031c693f6d8823b58b6575",
+  "review_file_sha256": "189f3a1d3496118c61dd01f2ee7066b51e2f62f1c09df95eba3324cac3eaa5d6"
+}

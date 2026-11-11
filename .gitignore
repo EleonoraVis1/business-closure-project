@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Reproducible local status-experiment datasets and individual predictions.
+/data/business_features_with_sentiment.csv
+/data/sentiment_features_2021.csv
+/research/status_experiments/main/predictions.csv
+/research/status_experiments/active/predictions.csv
+/research/status_experiments/git_status.txt

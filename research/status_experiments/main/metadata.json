@@ -1,0 +1,73 @@
+{
+  "n": 52268,
+  "closed": 17281,
+  "open": 34987,
+  "prevalence_closed": 0.33062294329226294,
+  "train_n": 41814,
+  "test_n": 10454,
+  "seed": 42,
+  "folds": 3,
+  "trees": 120,
+  "groups": {
+    "A_basic": [
+      "business_stars",
+      "business_review_count"
+    ],
+    "B_volume": [
+      "business_stars",
+      "business_review_count",
+      "reviews_2021"
+    ],
+    "C_temporal": [
+      "business_stars",
+      "business_review_count",
+      "reviews_first_6m_2021",
+      "reviews_recent_6m_2021"
+    ],
+    "D_activity": [
+      "business_stars",
+      "business_review_count",
+      "reviews_first_6m_2021",
+      "reviews_recent_6m_2021",
+      "all_time_checkins",
+      "tips_2021"
+    ],
+    "E_activity_ratings": [
+      "business_stars",
+      "business_review_count",
+      "reviews_first_6m_2021",
+      "reviews_recent_6m_2021",
+      "all_time_checkins",
+      "tips_2021",
+      "avg_review_stars_2021",
+      "rating_change_recent_vs_first_6m"
+    ],
+    "F_activity_sentiment": [
+      "business_stars",
+      "business_review_count",
+      "reviews_first_6m_2021",
+      "reviews_recent_6m_2021",
+      "all_time_checkins",
+      "tips_2021",
+      "sentiment_mean_2021",
+      "sentiment_std_2021",
+      "negative_review_share_2021",
+      "sentiment_change_recent_vs_first_6m"
+    ],
+    "G_full": [
+      "business_stars",
+      "business_review_count",
+      "reviews_first_6m_2021",
+      "reviews_recent_6m_2021",
+      "all_time_checkins",
+      "tips_2021",
+      "avg_review_stars_2021",
+      "rating_change_recent_vs_first_6m",
+      "sentiment_mean_2021",
+      "sentiment_std_2021",
+      "negative_review_share_2021",
+      "sentiment_change_recent_vs_first_6m"
+    ]
+  },
+  "bootstrap": "stratified paired holdout percentile 95%; conditional on fitted models; no multiplicity adjustment"
+}

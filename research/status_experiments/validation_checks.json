@@ -1,0 +1,26 @@
+{
+  "all_checks_passed": true,
+  "stage1_unchanged": true,
+  "counts_reconciled": true,
+  "bounds_and_missingness_verified": true,
+  "populations": {
+    "main": {
+      "n": 52268,
+      "closed": 17281,
+      "open": 34987,
+      "train": 41814,
+      "test": 10454,
+      "models": 16,
+      "common_holdout_verified": true
+    },
+    "active": {
+      "n": 31575,
+      "closed": 1283,
+      "open": 30292,
+      "train": 25260,
+      "test": 6315,
+      "models": 10,
+      "common_holdout_verified": true
+    }
+  }
+}

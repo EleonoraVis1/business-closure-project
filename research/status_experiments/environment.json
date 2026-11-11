@@ -1,0 +1,7 @@
+{
+  "python": "3.14.3",
+  "pandas": "3.1.1",
+  "numpy": "2.5.4",
+  "sklearn": "1.9.1",
+  "input_sha256": "dfaac060f988f947f59d10236a7ce0d3a940f3b2f9c18302d054415d674b1af7"
+}

@@ -1,0 +1,19 @@
+test_closed_positive_metrics (test_feature_validation.FeatureTests.test_closed_positive_metrics) ... ok
+test_model_preprocessing (test_feature_validation.FeatureTests.test_model_preprocessing) ... ok
+test_non_reconciling_reviews_fail (test_feature_validation.FeatureTests.test_non_reconciling_reviews_fail) ... ok
+test_valid_table (test_feature_validation.FeatureTests.test_valid_table) ... ok
+test_boundaries_aggregation_missingness_and_labels (test_sentiment_experiments.SentimentTests.test_boundaries_aggregation_missingness_and_labels) ... ok
+test_groups_and_preprocessing_do_not_fit_test_data (test_sentiment_experiments.SentimentTests.test_groups_and_preprocessing_do_not_fit_test_data) ... ok
+test_invalid_inputs_and_reconciliation (test_sentiment_experiments.SentimentTests.test_invalid_inputs_and_reconciliation) ... ok
+test_real_vader_bounds (test_sentiment_experiments.SentimentTests.test_real_vader_bounds) ... /Users/emilyehrenberg/Projects/business-closure-project/.venv/lib/python3.14/site-packages/vaderSentiment/vaderSentiment.py:201: DeprecationWarning: codecs.open() is deprecated. Use open() instead.
+  with codecs.open(lexicon_full_filepath, encoding='utf-8') as f:
+/Users/emilyehrenberg/Projects/business-closure-project/.venv/lib/python3.14/site-packages/vaderSentiment/vaderSentiment.py:206: DeprecationWarning: codecs.open() is deprecated. Use open() instead.
+  with codecs.open(emoji_full_filepath, encoding='utf-8') as f:
+ok
+test_common_split_and_row_order_reproducibility (test_status_feature_ablation.AblationTests.test_common_split_and_row_order_reproducibility) ... ok
+test_invalid_labels_and_duplicate_ids_rejected (test_status_feature_ablation.AblationTests.test_invalid_labels_and_duplicate_ids_rejected) ... ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 0.262s
+
+OK
